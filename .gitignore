@@ -1,2 +1,4 @@
-
-Projects/Pulse/mailer/smart.php
+node_modules/
+dist/
+yarn.lock
+package-lock.json
