@@ -26,18 +26,7 @@
 
   @include respond(phone) {
     padding: 0rem $default-font-size;
-  }
-
-  .lang {
-    display: block;
-    position: absolute;
-    top: 10%;
-    right: 6%;    
-    &__img{
-      border-radius: 100%;
-      border: 2px solid $primary-color;      
-    }
-  }
+  }  
 
   .hero-title {
     font-size: 5.6rem;
