@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gnobious/gnobious.github.io"
+    "url": "git+https://github.com/rimerian/rimerian.github.io"
   },
   "keywords": [],
   "author": "Roman Artemyev",
   "license": "ISC",  
-  "homepage": "https://gnobious.github.io",
+  "homepage": "https://rimerian.github.io",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^5.2.6",
